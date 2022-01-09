@@ -1,2 +1,3 @@
 b file added
 again some changes
+changes in b file
