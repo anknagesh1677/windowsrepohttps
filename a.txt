@@ -3,4 +3,5 @@
 making chamges in file
 
 Line1 added
-changes in feature1
+
+changes in feature2
