@@ -2,3 +2,4 @@ b file added
 again some changes
 changes in b file
 changes in feature3
+added a line file b
