@@ -7,3 +7,4 @@ Line1 added
 changes in feature2
 
 Changes in feature3
+Line4 added in a file
